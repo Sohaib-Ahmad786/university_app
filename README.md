@@ -1,2 +1,2 @@
 # university_app
-practice code of university app
+practice code of university app.
